@@ -1,6 +1,5 @@
 package com.example.restapi.rest.api
 
-import android.util.Log
 import androidx.lifecycle.*
 import com.example.restapi.model.Corona
 import com.example.restapi.model.Country
