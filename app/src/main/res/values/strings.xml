@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Rest API with Flow</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name_country">Name Country</string>
+    <string name="total_confirmed">totalConfirmed</string>
+    <string name="confirmed">Confirmed :</string>
+    <string name="death">Death :</string>
+    <string name="total_death">totalDeath</string>
+    <string name="date_update">Date update :</string>
+</resources>
